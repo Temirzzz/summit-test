@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    position: relative;
+}
+
+.my__form {
+    margin: 0 auto;
+}
+
+.popup {
+    width: 250px;
+    /* position: absolute; */
+    left: 50%;
+    transform: translate(-50%);
+    top: 20%;
+}
