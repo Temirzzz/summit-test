@@ -1,9 +1,3 @@
-<?php
-require_once('./config/config.php');
-require_once('./functions/functions.php');
-connect();
-?>
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
